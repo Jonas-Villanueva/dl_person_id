@@ -1,0 +1,99 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled static libraries
+*.lib
+*.a
+
+# Compiled dynamic libraries
+*.dll
+*.so
+*.dylib
+
+# Executable files
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+*.pdb
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+
+# Backup files
+*.bak
+*.old
+*.orig
+
+# IDE specific files
+# CLion
+.idea/
+cmake-build-*/
+
+# Code::Blocks
+*.layout
+*.depend
+*.depend.*
+
+# Visual Studio
+.vscode/
+.vscode/*
+*.vcxproj*
+*.vcproj*
+*.vcxproj.user
+*.user
+*.sln
+*.suo
+*.ncb
+*.opensdf
+*.sdf
+*.ipch
+*.pdb
+*.cache
+*.ilk
+*.idb
+*.obj
+*.o
+*.tlog
+*.lastbuildstate
+*.log
+.DBCache/
+*.opendb
+*.VC.db
+*.VC.VC.opendb
+
+# Xcode
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+*.xccheckout
+*.xcworkspace
+xcshareddata/
+*.xcuserstate
+
+# Other build systems
+# CMake
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+build/
+*.dir/
+
